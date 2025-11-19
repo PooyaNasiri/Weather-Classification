@@ -33,3 +33,11 @@ The project involves comparing the performance of the model across these dataset
 
 ## Results
 Visualizations and evaluation metrics like confusion matrices are provided in the notebook.
+
+---
+
+## License & Contact
+- See the repository for license details.
+- Author: [Pooya Nasiri](https://github.com/PooyaNasiri) | [Portfolio](https://pooyanasiri.github.io)
+  
+---
